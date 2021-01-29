@@ -37,7 +37,7 @@ h2 {
   }
   
   h1 {
-    font-size: 2rem;
+    /* font-size: 1.5em; */
     color: #fff;
     transform: rotate3d(0, 1, 0, -20deg);
     animation: 5s rotate ease-in-out infinite;
